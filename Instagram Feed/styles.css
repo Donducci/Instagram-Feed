@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: #c7c5c5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} 
+.post-heading{
+    display: flex;
+}
+.heading1{
+    width: 80%;
+}
+.heading2{
+    color: lightgray;
+    width: 20%;
+}
+h2{
+    font-size: medium;
+}
+.post1{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    margin: 1rem;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+img{
+    width: 100%;
+}
